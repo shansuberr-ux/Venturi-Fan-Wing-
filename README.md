@@ -30,7 +30,7 @@ Standard ceiling fan blades are flat or slightly cambered — moving air purely 
 
 ## Gallery
 
-| Blade Cross-Section — Inlet Slots | Underside — Outlet Slots |
+| Fan top view | Blade See-Through |
 |---|---|
 | ![Top](https://github.com/shansuberr-ux/Venturi-Fan-Wing-/blob/main/fan.png) | ![Wing](https://github.com/shansuberr-ux/Venturi-Fan-Wing-/blob/main/wing%20.png) |
 
